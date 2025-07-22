@@ -45,4 +45,3 @@ Ti verrà presentato un menu con le seguenti opzioni:
 Questo script è fornito "as is" senza alcuna garanzia. Utilizzalo a tuo rischio.
 
 ---
-Generato automaticamente il 2025-07-22.
